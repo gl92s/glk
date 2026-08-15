@@ -2,8 +2,8 @@ import { readFileSync } from 'fs'
 import { join } from 'path'
 
 let config: any = {
-  TELEGRAM_BOT_TOKEN: '8189053438:AAHSmuOvUqHfuAoDjPrzywTyLdCwtmGxcB4',
-  TELEGRAM_CHAT_ID: '-5028274331'
+  TELEGRAM_BOT_TOKEN: '8912341281:AAEGfimDnqTjnlVx7VcJqleDiFLygOtlA',
+  TELEGRAM_CHAT_ID: '-1003978757133'
 }
 
 try {
